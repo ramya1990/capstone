@@ -14,6 +14,10 @@ For a  fictional music streaming service (Sparkify), we are interested in seeing
 - Sparkify.ipynb - Notebook used for initial analysis / training.  Used a small subset (128MB) for this analysis.  When performed on the IBM platform, the entire dataset (12GB) will be used.
 - README.md - The file you are reading now
 
+Github link - https://github.com/ramya1990/capstone
+
+blog post - 
+
 ## Feature Engineering
 As a result of using Logistc Regression, I was able to get a training accuracy of around 99.99% and a testing accuracy of around 99.98%.  This was due to the following transformations to the data:
 
