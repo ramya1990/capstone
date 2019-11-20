@@ -16,7 +16,8 @@ For a  fictional music streaming service (Sparkify), we are interested in seeing
 
 Github link - https://github.com/ramya1990/capstone
 
-blog post - 
+blog post - https://medium.com/@ramya.kode/capstone-project-1e8c9c9cffb9
+
 
 ## Feature Engineering
 As a result of using Logistc Regression, I was able to get a training accuracy of around 99.99% and a testing accuracy of around 99.98%.  This was due to the following transformations to the data:
